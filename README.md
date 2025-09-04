@@ -1,11 +1,5 @@
 # Sorien
 
-New to coding<br/>
-hehehe<br/>
-hehehe<br/>
-i make videos on https://www.instagram.com/<br/>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sorien_021910) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@slzlazy) 
 
